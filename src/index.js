@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const axios = require('../node_modules/axios')
+const axios = require('axios')
 const fs = require('fs')
 
 const fetchData = () => {

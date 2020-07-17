@@ -1,6 +1,6 @@
 {
   "name": "thor-remote-fetch",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "Configuration data remote-fetching helper of Thor",
   "bin": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "author": "youngbeen",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "axios": "^0.19.2",
     "fs": "0.0.1-security"
   },
