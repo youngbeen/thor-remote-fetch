@@ -1,8 +1,8 @@
 # thor-remote-fetch
 
-This plugin provides ability of fetching configuration from remote for [Thor](https://github.com/youngbeen/thor)
+This npm plugin provides ability of fetching configuration from remote for [Thor](https://github.com/youngbeen/thor)
 
-## How to use
+## Usage
 
 Under a thor project root,
 
