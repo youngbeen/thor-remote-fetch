@@ -24,7 +24,7 @@ const fetchData = () => {
   axios.get(url).then(data => {
     // console.log(data.data)
     if (data && data.status === 200) {
-      console.log(info('获得远程配置接口应答'))
+      console.log('获得远程配置接口应答')
       fixConfig(data.data.data)
     }
   }).catch(err => {
